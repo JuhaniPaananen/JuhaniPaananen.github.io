@@ -144,8 +144,6 @@ voidaan kuvata hyperlinkkejä sisältävää tekstiä eli hypertekstejä."
 
 ![Kissa](https://assets3.thrillist.com/v1/image/2511343/792x792/flatten;scale;webp=auto;jpeg_quality=60.jpg)
 
-![]
-
 ## Exercise 4
 
 ```
