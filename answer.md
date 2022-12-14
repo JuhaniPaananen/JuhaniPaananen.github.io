@@ -10,8 +10,6 @@ Lesson 1:
 
 4. If you're thinking to yourself, **This is unbelievable**, you'd probably be right.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////
-
 Lesson 2:
 
 1. 
@@ -27,7 +25,6 @@ Lesson 2:
 
 Here's some words about the book _One Hundred Years..._.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////
 
 Lesson 3:
 
@@ -48,7 +45,6 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]: www.zombo.com
 [another fun place]:  www.stumbleupon.com
 
-/////////////////////////////////////////////////////////////////////////////////////////////////
 Lesson 4:
 
 1. 
@@ -63,7 +59,6 @@ Lesson 4:
 
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
-/////////////////////////////////////////////////////////////////////////////////////////////////
 
 Lesson 5:
 
@@ -82,7 +77,6 @@ I read this interesting quote the other day:
 3. 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: *VIVE L'IRLANDE*!
 
-/////////////////////////////////////////////////////////////////////////////////////////////////
 
 Lesson 6:
 
